@@ -1,0 +1,213 @@
+[
+    {
+      "id": "3d0ad819-6d1c-4bc8-8d82-248c5641fe07",
+      "pergunta": "Qual jogador brasileiro é conhecido como 'O Fenômeno'?",
+      "alternativas": ["Ronaldinho Gaúcho", "Pelé", "Ronaldo Nazário", "Neymar"],
+      "resposta": "c",
+      "dica": "Ele foi um dos artilheiros mais prolíficos da história do futebol."
+    },
+    {
+      "id": "9c8f4b7a-0f53-4d67-917a-77dce6d5c531",
+      "pergunta": "Qual seleção ganhou a Copa do Mundo de 2018?",
+      "alternativas": ["Argentina", "França", "Alemanha", "Espanha"],
+      "resposta": "b",
+      "dica": "Esta seleção possui uma torcida apaixonada chamada 'Les Bleus'."
+    },
+    {
+      "id": "93cda0a9-41d8-42eb-92b5-eed6a08a3b64",
+      "pergunta": "Quem é o treinador atual do Liverpool FC?",
+      "alternativas": ["Pep Guardiola", "Jurgen Klopp", "Zinedine Zidane", "Diego Simeone"],
+      "resposta": "b",
+      "dica": "Ele conduziu o Liverpool à vitória na Liga dos Campeões em 2019."
+    },
+    {
+      "id": "ea32a95e-7459-4ecf-8e1f-1a5c83db4b04",
+      "pergunta": "Em que país nasceu Lionel Messi?",
+      "alternativas": ["Argentina", "Espanha", "Brasil", "Portugal"],
+      "resposta": "a",
+      "dica": "Ele é frequentemente considerado um dos melhores jogadores de todos os tempos."
+    },
+    {
+      "id": "e87d0f8e-9d3e-4cd6-af13-5c7847886519",
+      "pergunta": "Qual jogador italiano é conhecido como 'Il Capitano'?",
+      "alternativas": ["Gianluigi Buffon", "Francesco Totti", "Andrea Pirlo", "Alessandro Del Piero"],
+      "resposta": "b",
+      "dica": "Ele passou toda a sua carreira no AS Roma."
+    },
+    {
+      "id": "e5ae0e08-5c89-42f3-9f0e-bfcf70298113",
+      "pergunta": "Qual seleção venceu a primeira Copa do Mundo em 1930?",
+      "alternativas": ["Uruguai", "Itália", "Alemanha", "Brasil"],
+      "resposta": "a",
+      "dica": "Esta seleção era a anfitriã do torneio."
+    },
+    {
+      "id": "df38f6e6-9655-4c5d-8ef8-3ae9d6c14102",
+      "pergunta": "Em que clube Cristiano Ronaldo começou sua carreira profissional?",
+      "alternativas": ["Manchester United", "Sporting CP", "Real Madrid", "Juventus"],
+      "resposta": "b",
+      "dica": "Ele é originário de Portugal."
+    },
+    {
+      "id": "48f2ea14-741b-4465-8244-6406edaae8f4",
+      "pergunta": "Qual país ganhou a Copa do Mundo de 2006?",
+      "alternativas": ["Espanha", "Itália", "França", "Alemanha"],
+      "resposta": "b",
+      "dica": "Esta final foi decidida nos pênaltis."
+    },
+    {
+      "id": "1cf8c11f-11ed-4c9a-a9a5-b787f1dd7060",
+      "pergunta": "Qual jogador argentino é conhecido como 'La Pulga'?",
+      "alternativas": ["Gonzalo Higuaín", "Sergio Agüero", "Lionel Messi", "Paulo Dybala"],
+      "resposta": "c",
+      "dica": "Ele passou grande parte de sua carreira no Barcelona."
+    },
+    {
+      "id": "5b50bf29-7229-4dc5-b14c-b4388f5909d3",
+      "pergunta": "Qual país sediou a Copa do Mundo de 2014?",
+      "alternativas": ["Alemanha", "Espanha", "Brasil", "Rússia"],
+      "resposta": "c",
+      "dica": "O evento ocorreu em um país famoso por sua paixão pelo futebol e belas praias."
+    },
+    {
+      "id": "54406a8b-0e60-4867-9ed5-0813a6e53a8a",
+      "pergunta": "Quem é o artilheiro histórico da seleção brasileira de futebol?",
+      "alternativas": ["Pelé", "Ronaldo Nazário", "Romário", "Neymar"],
+      "resposta": "a",
+      "dica": "Ele marcou mais de 70 gols pela seleção."
+    },
+    {
+      "id": "22a51a82-23f4-42c9-94bb-8cbdbadae6da",
+      "pergunta": "Qual clube inglês é conhecido como 'Red Devils'?",
+      "alternativas": ["Liverpool FC", "Manchester United", "Chelsea FC", "Arsenal FC"],
+      "resposta": "b",
+      "dica": "Eles têm uma forte rivalidade com o Manchester City."
+    },
+    {
+      "id": "8e593d0f-5d53-4710-8e69-1a6e1fe7e54f",
+      "pergunta": "Qual jogador detém o recorde de gols em uma única edição da Copa do Mundo?",
+      "alternativas": ["Pelé", "Cristiano Ronaldo", "Just Fontaine", "Gerd Müller"],
+      "resposta": "c",
+      "dica": "Ele marcou 13 gols em 1958."
+    },
+    {
+      "id": "c6991e54-0c2d-45f8-b433-b4dfe7a2babe",
+      "pergunta": "Qual é o apelido do estádio do Barcelona?",
+      "alternativas": ["Santiago Bernabéu", "Camp Nou", "San Siro", "Anfield"],
+      "resposta": "b",
+      "dica": "É o maior estádio da Europa."
+    },
+    {
+      "id": "c8f03bb6-054a-4a6d-9ed9-2c25a9e95d74",
+      "pergunta": "Em que ano o Brasil sediou a Copa do Mundo pela última vez?",
+      "alternativas": ["2002", "2010", "2014", "2018"],
+      "resposta": "c",
+      "dica": "Foi uma Copa do Mundo muito emocionante para os brasileiros."
+    },
+    {
+      "id": "f3b24c4a-8e90-4b90-8e5d-810d51740c0c",
+      "pergunta": "Qual é o jogador mais jovem a marcar um gol em uma Copa do Mundo?",
+      "alternativas": ["Lionel Messi", "Pelé", "Cristiano Ronaldo", "Neymar"],
+      "resposta": "b",
+      "dica": "Ele tinha apenas 17 anos quando marcou seu primeiro gol na Copa do Mundo."
+    },
+    {
+      "id": "66e3bfa0-5e5a-4f9d-9ff2-1e40f3695d8b",
+      "pergunta": "Qual país é o atual campeão da Copa do Mundo Feminina da FIFA?",
+      "alternativas": ["Alemanha", "Estados Unidos", "Japão", "França"],
+      "resposta": "b",
+      "dica": "Elas venceram em 2019."
+    },
+    {
+      "id": "c4e1a70b-1c47-4f68-a1ca-9cfda3120ab2",
+      "pergunta": "Qual seleção detém o recorde de mais títulos da Copa do Mundo?",
+      "alternativas": ["Alemanha", "Brasil", "Itália", "Argentina"],
+      "resposta": "b",
+      "dica": "Eles ganharam o torneio cinco vezes."
+    },
+    {
+      "id": "e61db58d-dc69-4f61-b90f-619c81e872e3",
+      "pergunta": "Qual jogador é conhecido como 'O Mágico'?",
+      "alternativas": ["Ronaldinho Gaúcho", "Neymar", "Zlatan Ibrahimović", "Luka Modrić"],
+      "resposta": "a",
+      "dica": "Ele foi famoso por suas habilidades de dribles e truques."
+    },
+    {
+      "id": "0731f647-81fc-4f15-805e-0d1c94850735",
+      "pergunta": "Qual é o país de origem da equipe de futebol FC Barcelona?",
+      "alternativas": ["Espanha", "Argentina", "Brasil", "Portugal"],
+      "resposta": "a",
+      "dica": "A equipe está sediada em uma cidade famosa por sua arquitetura modernista."
+    },
+    {
+      "id": "e40a7f6d-8f0c-40e4-8edf-c103a2d9f100",
+      "pergunta": "Qual país sediou a Copa do Mundo de 1986?",
+      "alternativas": ["Itália", "Espanha", "México", "Argentina"],
+      "resposta": "c",
+      "dica": "Foi uma Copa do Mundo memorável com um 'Gol do Século'."
+    },
+    {
+      "id": "d5e13bbd-d19c-4c56-bf03-7a581a8f646c",
+      "pergunta": "Qual jogador é conhecido como 'Zizou'?",
+      "alternativas": ["Zinedine Zidane", "Thierry Henry", "Didier Drogba", "David Trezeguet"],
+      "resposta": "a",
+      "dica": "Ele é um ícone do futebol francês e ganhou a Copa do Mundo em 1998."
+    },
+    {
+      "id": "fe65cfd2-30f5-4847-9929-2d297e1319dd",
+      "pergunta": "Qual jogador detém o recorde de mais gols marcados em uma única temporada da Premier League?",
+      "alternativas": ["Cristiano Ronaldo", "Thierry Henry", "Alan Shearer", "Mohamed Salah"],
+      "resposta": "c",
+      "dica": "Ele marcou 32 gols em uma única temporada."
+    },
+    {
+      "id": "7a2c0f3d-bb25-4c93-a92b-e59f3c961871",
+      "pergunta": "Qual é o clube de futebol mais antigo do mundo?",
+      "alternativas": ["FC Barcelona", "Sheffield FC", "Manchester United", "Real Madrid"],
+      "resposta": "b",
+      "dica": "Foi fundado em 1857."
+    },
+    {
+      "id": "d61f78b0-778e-4cfa-bdab-88222767b0db",
+      "pergunta": "Qual jogador é conhecido como 'O Maestro'?",
+      "alternativas": ["Andrés Iniesta", "Xavi Hernández", "Paul Scholes", "Andrea Pirlo"],
+      "resposta": "b",
+      "dica": "Ele era conhecido por seu controle de bola e precisão nos passes."
+    },
+    {
+      "id": "fe0b62aa-30f7-49eb-94f7-41e5e91829d5",
+      "pergunta": "Qual país ganhou a Eurocopa de 2021?",
+      "alternativas": ["Portugal", "França", "Inglaterra", "Itália"],
+      "resposta": "d",
+      "dica": "Eles venceram na final em um jogo emocionante."
+    },
+    {
+      "id": "78e2e89a-67e6-49b7-94df-8b237b7aa19d",
+      "pergunta": "Qual é o apelido da seleção de futebol da Holanda?",
+      "alternativas": ["Azzurri", "Oranje", "Albiceleste", "Les Bleus"],
+      "resposta": "b",
+      "dica": "A cor é uma dica importante aqui."
+    },
+    {
+      "id": "de6fc5d2-84d7-497c-915d-2de52f5b9f9b",
+      "pergunta": "Em que ano a Copa do Mundo de Futebol Feminino da FIFA foi realizada pela primeira vez?",
+      "alternativas": ["1989", "1991", "1995", "1999"],
+      "resposta": "a",
+      "dica": "Foi um marco importante para o futebol feminino."
+    },
+    {
+      "id": "cd5d0350-0439-41f5-a03a-9ab16c2065a3",
+      "pergunta": "Qual país ganhou a Copa América de 2021?",
+      "alternativas": ["Brasil", "Argentina", "Uruguai", "Colômbia"],
+      "resposta": "b",
+      "dica": "A final foi disputada no Estádio do Maracanã."
+    },
+    {
+      "id": "482685f0-d64d-44bc-94c7-f2a2daa853c9",
+      "pergunta": "Qual jogador é conhecido como 'O Imperador'?",
+      "alternativas": ["Ronaldo Nazário", "Adriano", "Kaká", "Rivaldo"],
+      "resposta": "b",
+      "dica": "Ele foi um atacante poderoso e jogou por times como Inter de Milão e Flamengo."
+    }
+  ]
+  

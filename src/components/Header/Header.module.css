@@ -1,0 +1,17 @@
+.container {
+    height: 12.5rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: var(--blue-500);
+}
+
+.container h1 span:nth-child(1) {
+    color: var(--rose-200);
+}
+
+.container h1 span:nth-child(2) {
+    color: var(--indigo-800);
+}

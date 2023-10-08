@@ -1,0 +1,30 @@
+:root {
+    --indigo-800: #324068;
+    --rose-200: #dbc1b6;
+    --teal-300: #61c7c2;
+    --blue-500: #3978e6;
+    --gray-100: #f0f0f0;
+    --gray-800: #262525;
+  }
+  
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--indigo-800);
+}
+
+body, input, button {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    color: var(--gray-100);
+}
+
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+}
